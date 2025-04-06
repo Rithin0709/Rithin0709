@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rithin</h1>
 
 <p align="center">
-  🚀 ECE Student | 🧠 Embedded Systems & AI Enthusiast | ⚙️ OS Developer in the Making  
+  🚀 ECE Student | 🧠 Embedded Systems & AI Enthusiast 
 </p>
 
 ---
@@ -10,8 +10,8 @@
 
 - 💡 Building **AIEOS** – an AI-Driven Embedded Operating System from scratch  
 - 🧠 Exploring the edge where **AI meets Embedded Systems**  
-- 🔭 Currently working with **C**, **Rust**, and **Python**  
-- 🌐 Learning Full-stack Dev, Linux, Networking, and Deployment  
+- 🔭 Currently working with **C**, **Java**, and **Python**  
+- 🌐 Learning Full-stack Dev, Linux and Deployment  
 - 💬 Ask me about Embedded Dev, OS Internals, or Gen AI workflows  
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/rithinragunathan)  
 
