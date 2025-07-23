@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Rithin</h1>
 
 <p align="center">
-  🚀 ECE Student | 🧠 AI & Software Developer | 🌱 Always Learning
+  🚀 ECE Student | 🧠 AI & Software Developer | 🌱 Learning Full-Stack
 </p>
 
 ---
 
 ### ✨ About Me
 
-- 🎯 On a mission to **learn, craft, and grow** through real-world tech  
-- 💡 Passionate about **AI**, **embedded systems**, and **software development**  
-- 🔍 Currently exploring **AI for Edge**, **Linux**, and **Full-Stack Dev**  
-- 🔭 Working with **C**, **Java**, and **Python**  
-- 🧠 Enjoy solving problems that mix **hardware logic** with **intelligent systems**  
-- 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/rithinragunathan)
+- 🎯 On a journey of **learning, crafting, and building myself through tech**  
+- 💡 Passionate about **AI**, **embedded systems**, and **problem solving**  
+- 🔍 Exploring the intersection of **AI and Edge Computing**  
+- 🌐 Currently learning **Full-Stack Development**  
+- 🔭 Working with **C**, **Java**, **Python**, and starting with **HTML/CSS/JS**  
+- 📫 Let’s connect: [LinkedIn](https://www.linkedin.com/in/rithinragunathan)
 
 ---
 
@@ -38,22 +38,22 @@
 
 ---
 
-### 🚧 What I'm Focused On
+### 🛠️ Current Focus
 
-- 🧠 Gen AI Capstone Project on Kaggle  
-- 🛠️ Learning how to **deploy AI models** and build **clean UI systems**  
-- 🧰 Practicing **Git**, improving **Linux fluency**, and working with real hardware  
-- 🧪 Running experiments, failing fast, and learning faster  
+- 🧠 Gen AI Capstone Project (Kaggle)
+- 🌐 Learning **Full-Stack Development**: React, Node.js, MongoDB
+- 🧰 Practicing **Git**, working on **Linux**, and understanding **deployment**
+- 📦 Mixing AI ideas with web and system-level projects  
 
 ---
 
-### 💬 Quote I Live By
+### 💬 Motto I Follow
 
 > _"From resistors to reasoning — I craft systems that think."_ ⚡  
-> _"I’m not just building code — I’m building myself."_ 🧱
+> _"I’m not just writing code — I’m writing my story."_ 📖
 
 ---
 
 <p align="center">
-  🌟 Let’s build, break, and become better — together!
+  🌟 Let's create, learn, and innovate — one line at a time!
 </p>
