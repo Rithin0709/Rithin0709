@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rithin</h1>
 
 <p align="center">
-  🚀 ECE Student | 🧠 AI & Software Developer | 🌱 Learning Full-Stack
+  🚀 ECE Student | 🧠 AI & Software Developer 
 </p>
 
 ---
@@ -11,7 +11,7 @@
 - 🎯 On a journey of **learning, crafting, and building myself through tech**  
 - 💡 Passionate about **AI**, **embedded systems**, and **problem solving**  
 - 🔍 Exploring the intersection of **AI and Edge Computing**  
-- 🌐 Currently learning **Full-Stack Development**  
+- 🌐 Currently learning **ai**  
 - 🔭 Working with **C**, **Java**, **Python**, and starting with **HTML/CSS/JS**  
 - 📫 Let’s connect: [LinkedIn](https://www.linkedin.com/in/rithinragunathan)
 
@@ -41,7 +41,6 @@
 ### 🛠️ Current Focus
 
 - 🧠 Gen AI Capstone Project (Kaggle)
-- 🌐 Learning **Full-Stack Development**: React, Node.js, MongoDB
 - 🧰 Practicing **Git**, working on **Linux**, and understanding **deployment**
 - 📦 Mixing AI ideas with web and system-level projects  
 
